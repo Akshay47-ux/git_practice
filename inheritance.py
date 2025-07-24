@@ -10,5 +10,5 @@ def main():
     b=B()
     print(b.x,b.y)              
 main()    
-#thid program demonstrates that the init function in th derived class will ovrride
+#this program demonstrates that the init function in th derived class will ovrride
 # the one in the basse clas  
