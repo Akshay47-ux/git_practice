@@ -19,7 +19,7 @@ def main():
     radius = int(input("Enter the radius: "))
     c = Circle(radius)
     print("Area of Circle:", c.area())
-    
+
     l = int(input("Enter length: "))
     b = int(input("Enter breadth: "))
     r = Rect(l, b)
