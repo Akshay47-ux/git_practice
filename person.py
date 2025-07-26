@@ -14,4 +14,4 @@ def main():
     print(s.marks,s.age)
 
 main()
-            
+ #so here we arre demonstarting that how we can acces the base class elements in the child class            
