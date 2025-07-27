@@ -4,8 +4,7 @@ class vehicle:
     def start(self):
         print("the vehicle has started")
     def stop(self):
-        print("engine has stopped")
-#v=vehicle()       
+        print("engine has stopped")       
 class car(vehicle):
     def music(self):
         print("music playing")
@@ -15,3 +14,4 @@ def main():
     c.music()
     c.stop()
 main()
+#acccesing the base class methods
